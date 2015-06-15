@@ -1,0 +1,19 @@
+{
+  "name": "react-bind-polyfill",
+  "authors": [
+    "Facebook"
+  ],
+  "main": "index.js",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adelgado/react-bind-polyfill.git"
+  },
+  "version": "1.0.0",
+  "homepage": "https://github.com/adelgado/react-bind-polyfill",
+  "description": "Polyfill for Function#bind taken from Facebook React's codebase",
+  "keywords": [
+    "polyfill",
+    "bind"
+  ]
+}
